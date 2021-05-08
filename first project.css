@@ -1,0 +1,43 @@
+h1 {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+#Brus{
+    background-color: mediumspringgreen;
+}
+#fram{
+    background-color: lightcoral;
+}
+#paint{
+    background-color: skyblue;
+}
+.item1 h2{
+    color: white;
+    font-size: 32px;
+}
+h1,h2,h3,p{
+    font-family: Helvetica;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+ 
+}
+.price{
+    color: Blue;
+    font-weight: bold;
+}
